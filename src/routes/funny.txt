@@ -1,0 +1,23 @@
+<h1>Andrew Placencia</h1>
+<script>
+	function handleClick() {
+		true;
+	}
+</script>
+<!--<button on:click={handleClick}>
+    See more
+</button>-->
+<p> I go to <a href="https://www.boscotech.edu">BoscoTech</a></p>
+<style>
+    h1{
+        color:purple;
+        font-family:Arial;
+        font-size:50px;
+        text-align: center;
+    }
+    p{
+        font-family:'Times new Roman';
+        font-size: 20px;
+        text-align: center;
+    }
+</style>
